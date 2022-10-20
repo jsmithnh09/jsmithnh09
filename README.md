@@ -1,6 +1,6 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/jordan-r-smith-b1530280/)
 
-I'm a software engineer and audio tools developer at Bose Corporation in Massachusetts. My principal programming languages are MATLAB and Python, although I'm a huge fan (and novice) with the Julia programming language.
+I'm a software engineer and audio tools developer at [Bose Corporation](https://www.bose.com/en_us/index.html) in Massachusetts. My principal programming languages are MATLAB and Python, although I'm a huge fan (and novice) with the Julia programming language.
 
 - 🔭 I’m currently working on additions to DSP.jl and a Julia implementation of Empirical Mode Decomposition, EMD.jl.
 - ⚡ Fun fact: I enjoy Criterion Collection Films, time with friends/family, and Concert going!
