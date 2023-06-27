@@ -1,5 +1,6 @@
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordan-r-smith-b1530280/)
-[![Static Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jsmithnh09@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/jordan-r-smith-b1530280/)
+[![Static Badge](https://img.shields.io/badge/Gmail-jsmithnh09%40gmail.com-%23EA4335?style=flat&logo=gmail&logoColor=white)](mailto:jsmithnh09@gmail.com)
+
 
 I'm a software engineer and audio tools developer at [Bose Corporation](https://www.bose.com/en_us/index.html) in Massachusetts. My principal programming languages are MATLAB and Python, although I'm a huge fan (and novice) with the Julia programming language.
 
