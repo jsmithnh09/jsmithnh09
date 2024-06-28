@@ -5,7 +5,7 @@
 I'm a software engineer and audio tools developer at [Bose Corporation](https://www.bose.com/en_us/index.html) in Massachusetts. My principal programming languages are MATLAB and Python, although I'm a huge fan (and novice) with the Julia programming language.
 
 - 🔭 I’m currently working on additions to [DSP.jl](https://github.com/JuliaDSP/DSP.jl) and a Julia implementation of Empirical Mode Decomposition, [EMD.jl](https://github.com/jsmithnh09/EMD.jl).
-- ⚡ Fun fact: I enjoy [Criterion](https://www.criterion.com/) Films and time with friends/family.
+- ⚡ Fun fact: I enjoy [Criterion](https://www.criterion.com/) Films, horror novels, and time with friends/family.
 
 <!--
 **jsmithnh09/jsmithnh09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
